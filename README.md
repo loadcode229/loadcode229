@@ -4,4 +4,6 @@
 http://github.com/loadcode229/recipe-manager
 # 🌱 I’m currently learning:
 ### How to get better at vocally explaining my Object Oriented code step by step, route by route. Shortly moving to React hopefully.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/loadcode229/github-readme-stats)
+
 
